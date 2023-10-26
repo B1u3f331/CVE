@@ -5,12 +5,14 @@ version:4.1.3
 There is a csrf vulnerability in the variable management modification function
 
 
+![image](https://github.com/B1u3f331/CVE/assets/28138784/210af08e-8b91-4c1f-9e28-e825ac9ff99a)
 
 
 
 click and Create a csrf poc
 
-![1697124264515](https://github.com/moonsabc123/dreamer_cms/assets/145991754/efdb0a44-e455-4a13-adf8-1edd9b5a1ffb)
+![image](https://github.com/B1u3f331/CVE/assets/28138784/fd306bc8-72fe-4a1a-808e-4eb9025664c8)
+
 
 ```
 <html>
@@ -31,4 +33,5 @@ click and Create a csrf poc
 
 Successfully modified
 
-![1697124315827](https://github.com/moonsabc123/dreamer_cms/assets/145991754/1853a0c2-eeb2-4e13-8b5a-2836b04e2382)
+![image](https://github.com/B1u3f331/CVE/assets/28138784/acd85627-8908-4d2e-a5b1-a3e9398b342d)
+
